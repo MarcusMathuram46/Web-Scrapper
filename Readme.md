@@ -1,5 +1,9 @@
 Installation:
+
    npm install
+
+
+   
 Capterra:
 
 this is the command line arg for capterra :
